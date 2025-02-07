@@ -1,4 +1,4 @@
-m a cloud and DevOps enthusiast with hands-on experience in AWS, Docker, Terraform, and CI/CD pipelines. As an AWS Certified professional, I'm currently building projects that leverage these technologies and am open to collaborating on projects that require web development and deployment.
+I'm a cloud and DevOps enthusiast with hands-on experience in AWS, Docker, Terraform, and CI/CD pipelines. As an AWS Certified professional, I'm currently building projects that leverage these technologies and am open to collaborating on projects that require web development and deployment.
 
 
 ## 🌐 Socials:
